@@ -18,7 +18,7 @@ There are two dashboards which cover some of the insights from covid-19 data.
 
 
 
-![at international level](https://public.tableau.com/app/profile/anumol.c.s/viz/Covid19DataAnalysis_16639513576790/Covid19InternationalDashboard)
+![at international level](https://public.tableau.com/views/Covid19DataAnalysis_16639513576790/Covid19InternationalDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
